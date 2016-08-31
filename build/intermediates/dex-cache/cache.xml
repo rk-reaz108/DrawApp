@@ -3,6 +3,15 @@
 
     <item
         is-multidex="false"
+        jar="E:\Running Project\DrawApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="E:\Running Project\DrawApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_b98f091f544ab24572c58dc4fc990221ef0dc3df.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\Running Project\testApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="false"
@@ -21,21 +30,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\Running Project\testApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.1"
-        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="E:\Running Project\testApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_31c60a7eef4ff1abc1594a9ef1c9aa081bf42538.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="E:\Files\J_CENA_X64FRE_EN-US_DV5\ECLIPSE\sdk\extras\android\m2repository\com\android\support\support-annotations\24.1.1\support-annotations-24.1.1.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.1"
         sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
         <dex dex="E:\Running Project\testApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_cc25a3bd5a6dac254153e438256467d551e737b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Running Project\testApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\Running Project\testApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_31c60a7eef4ff1abc1594a9ef1c9aa081bf42538.jar" />
     </item>
     <item
         is-multidex="false"
@@ -48,12 +57,75 @@
     </item>
     <item
         is-multidex="false"
+        jar="E:\Running Project\DrawApp\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="E:\Running Project\DrawApp\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_45a129e937f920f2451557222a5c812fcbf61bce.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\Running Project\testApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.1"
         sha1="431cfe75281edb0febb1f582149f50c609d8b04b">
         <dex dex="E:\Running Project\testApp\app\build\intermediates\pre-dexed\debug\instant-run_9d32f7252895f40098467cae5f91c1d481768ae2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Running Project\DrawApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="E:\Running Project\DrawApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_e9ee6929622cc98d314be2472a9d0e37b931bec0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Running Project\DrawApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="E:\Running Project\DrawApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_9f1a709277cb8c1c32e39e12bc6a98816d09b78f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Running Project\DrawApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="E:\Running Project\DrawApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_7c9b7eb5deb11d353239d92a4083b3600f28b549.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Running Project\DrawApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="E:\Running Project\DrawApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_6be32716f6dd21086f4260afee899343d545c4a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Running Project\DrawApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="9b49f9f9828cbdaf7aa15d4e02a49853cfd6e35e">
+        <dex dex="E:\Running Project\DrawApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_32a798ffefdf75494fef624cf361c04f48990883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Running Project\DrawApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="9dadf1ace76d60c3cb3d1ec2554a3bcf872356a4">
+        <dex dex="E:\Running Project\DrawApp\app\build\intermediates\pre-dexed\debug\instant-run_2200a8eee09df4448cbd54d13ac9517e9da03a7f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -72,6 +144,15 @@
         revision="24.0.1"
         sha1="f62e763609f65e47dc6c498760a4accf02776788">
         <dex dex="E:\Running Project\testApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_357478f4462e15f4375cea5a58b1c6471beee659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Running Project\DrawApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="E:\Running Project\DrawApp\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_5ebbc6b483f7e85e53a5b1b2a4f05db48ebb25aa.jar" />
     </item>
     <item
         is-multidex="false"

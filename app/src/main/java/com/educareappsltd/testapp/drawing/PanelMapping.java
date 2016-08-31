@@ -148,7 +148,7 @@ int screenHeight,screenWidth;
 				10, 8.2f));
 		c.drawLine(selectedXPos, selectedYPos ,
 				currentXPos , currentYPos , paint);
-
+          resetPain();
 	}
 
 // reset
@@ -183,7 +183,7 @@ int screenHeight,screenWidth;
 				break;
 			case MotionEvent.ACTION_UP:
 				touch_up();
-				resetPain();
+//				 resetPain();
 					// touch_up();
 
 					invalidate();
